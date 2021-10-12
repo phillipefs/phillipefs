@@ -10,6 +10,6 @@ Analista de Dados experiente no desenvolvimento de processos de ETL e integra√ß√
 
 ## **Me encontre em:**
 
-## <div align=center>[![Hotmail Badge](https://img.shields.io/badge/Hotmail-D14836?style=flat&logo=hotmail&logoColor=white&link=mailto:phillipefs@msn.com)](mailto:cicerooficial@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillipe-santos-bb419b28/) </div>
+## <div align=center>[![Hotmail Badge](https://img.shields.io/badge/Hotmail-D14836?style=flat&logo=hotmail&logoColor=white&link=mailto:phillipefs@msn.com)](mailto:phillipefs@msn.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillipe-santos-bb419b28/) </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipefs&show_icons=true&theme=algolia)

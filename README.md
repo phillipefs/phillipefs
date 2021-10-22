@@ -5,7 +5,7 @@
   
 ## **Sobre mim:**
   <h4>
-Analista de Dados experiente no desenvolvimento de processos de ETL e integração de dados, utilizando Integration Services (SSIS) e Python. Atualmente estou buscando aprimorar e desenvolvendo skills envolvendo Engenharia de Dados. Experiência com modelagem de dados, programação SQL, bancos relacionais e No-Sql (MongoDB/ Amazon DocumentDB).
+Analista de Dados experiente no desenvolvimento de processos de ETL e integração de dados, utilizando Integration Services (SSIS) e Python. </br> Atualmente estou buscando aprimorar e desenvolvendo skills envolvendo Engenharia de Dados. </br> Experiência com modelagem de dados, programação SQL, bancos relacionais e No-Sql (MongoDB/ Amazon DocumentDB).
 </h4>
 
 ## **Me encontre em:**

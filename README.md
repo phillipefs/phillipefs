@@ -1,14 +1,8 @@
-  <h1 align="center"> 
-    Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, seja Bem Vindo!
-  </h1>
-  
-  
 ## **Sobre mim:**
-  <h4>
-Experiência no desenvolvimento de processos de ETL e integração de dados, utilizando Integration Services (SSIS) e Python.
-Buscando aprimorar e desenvolver skills envolvendo Engenharia de Dados e Cloud.
-Experiência com modelagem de dados, programação SQL, bancos relacionais e No-Sql (MongoDB/ Amazon DocumentDB)
-</h4>
+
+Oi, sou o Phillipe Santos! </br>
+Atuo na área de tecnologia focado em dados desde 2010 e possuo bacharel em Sistemas de Informação. </br>
+No decorrer da carreira, já atuei como Consultor BI, Analista de Dados, e atualmente como Engenheiro de Dados.
 
 ## **Me encontre em:**
 

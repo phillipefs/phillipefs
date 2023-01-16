@@ -1,8 +1,6 @@
 ## **Sobre mim:**
 
-Oi, sou o Phillipe Santos! </br>
-Atuo na área de tecnologia focado em dados desde 2010 e possuo bacharel em Sistemas de Informação. </br>
-No decorrer da carreira, já atuei como Consultor BI, Analista de Dados, e atualmente como Engenheiro de Dados.
+Bacharel em Sistemas de Informação com 10 anos de experiência trabalhando com dados. Atualmente atuo como engenheiro de dados com experiência em Databricks, Pyspark, Python, SQL e ambiente cloud (AWS e Azure).
 
 ## **Me encontre em:**
 

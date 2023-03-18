@@ -2,12 +2,9 @@
 
 Bacharel em Sistemas de Informação com 10 anos de experiência trabalhando com dados. Atualmente atuo como engenheiro de dados com experiência em Databricks, Pyspark, Python, SQL e ambiente cloud (AWS e Azure).
 
-## **Me encontre em:**
+## **Contato:**
 
 ## <div align=center>[![Hotmail Badge](https://img.shields.io/badge/Hotmail-D14836?style=flat&logo=hotmail&logoColor=white&link=mailto:phillipefs@msn.com)](mailto:phillipefs@msn.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillipe-santos-bb419b28/) </div>
-
-## **Projetos que estou desenvolvendo:**
-
 
 ----------
 

@@ -4,7 +4,7 @@ Bacharel em Sistemas de Informação com 10 anos de experiência trabalhando com
 
 ## **Contato:**
 
-## <div align=center>[![Hotmail Badge](https://img.shields.io/badge/Hotmail-D14836?style=flat&logo=hotmail&logoColor=white&link=mailto:phillipefs@msn.com)](mailto:phillipefs@msn.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillipe-santos-bb419b28/) </div>
+## <div align=center>[![Hotmail Badge](https://img.shields.io/badge/Hotmail-D14836?style=flat&logo=hotmail&logoColor=white&link=mailto:phillipefs@msn.com)](mailto:phillipefs@msn.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillipe-santos) </div>
 
 ----------
 

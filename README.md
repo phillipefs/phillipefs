@@ -1,6 +1,6 @@
 ### **Sobre mim:**
 
-Bacharel em Sistemas de Informação com 10 anos de experiência trabalhando com dados. Atualmente atuo como engenheiro de dados com experiência em Databricks, Pyspark, Python, SQL e ambiente cloud (AWS e Azure).
+Bacharel em Sistemas de Informação com 10 anos de experiência trabalhando com dados. Atualmente atuo como engenheiro de dados com experiência em Azure Synapse, Data Factory, Databricks, Pyspark, Python, SQL.
 
 ### **Contato:**
 

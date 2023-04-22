@@ -7,8 +7,7 @@ Bacharel em Sistemas de Informação com 10 anos de experiência trabalhando com
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=phillipefs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillipefs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-
+  
 ## Certificações:
 
 <div aling="center">
@@ -25,7 +24,7 @@ Bacharel em Sistemas de Informação com 10 anos de experiência trabalhando com
     <img src="https://github.com/phillipefs/images_upload/blob/master/Airflow.PNG" height="120" width="130">
   </a>
 </div>
-
+  
 ## Skills:
 <div style="display: inline_block">
   <img align="center" alt="Azure" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />

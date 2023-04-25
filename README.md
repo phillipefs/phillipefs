@@ -32,8 +32,11 @@ Bacharel em Sistemas de Informação com 10 anos de experiência trabalhando com
   <img align="center" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Spark" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
   <img align="center" alt="Delta Lake" height="45" src="https://github.com/phillipefs/images_upload/blob/master/delta-lake.png">
+  <img align="center" alt="Git" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </div>
-
+ 
 ## **Contato:**
-
-## <div align=left>[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillipe-santos) [![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:phillipefs@msn.com)](mailto:phillipefs@msn.com)  </div>
+  
+<p align="left">
+<a href="https://www.linkedin.com/in/phillipe-santos/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/phillipe-santos/" height="45"/></a>
+</p>

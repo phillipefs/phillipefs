@@ -15,13 +15,13 @@ Bacharel em Sistemas de Informação com 10 anos de experiência trabalhando com
     <img src="attachment/databricks lakehouse.PNG" height="120" width="100">
   </a>
   <a href="https://www.credly.com/badges/ddc37f53-4882-41c7-bc79-d0489f2e18f1">
-    <img src="https://github.com/phillipefs/images_upload/blob/master/DataFundaments.PNG" height="120" width="120">
+    <img src="attachment/DataFundaments.PNG" height="120" width="120">
   </a>
   <a href="https://www.credly.com/badges/89067af9-d488-40e0-bdd4-a4630bea34d6">
-    <img src="https://github.com/phillipefs/images_upload/blob/master/AWS.PNG" height="120" width="120">
+    <img src="attachment/AWS.PNG" height="120" width="120">
   </a>
   <a href="https://www.credly.com/badges/bcc31338-96d1-4b7d-ab28-5e3500ba055f">
-    <img src="https://github.com/phillipefs/images_upload/blob/master/Airflow.PNG" height="120" width="130">
+    <img src="attachment/Airflow.PNG" height="120" width="130">
   </a>
 </div>
   

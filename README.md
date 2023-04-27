@@ -12,7 +12,7 @@ Bacharel em Sistemas de Informação com 10 anos de experiência trabalhando com
 
 <div aling="center">
   <a href="https://www.credly.com/badges/ddc37f53-4882-41c7-bc79-d0489f2e18f1">
-    <img src="https://github.com/phillipefs/images_upload/blob/master/databricks%20lakehouse.PNG" height="120" width="100">
+    <img src="attachment/databricks lakehouse.PNG" height="120" width="100">
   </a>
   <a href="https://www.credly.com/badges/ddc37f53-4882-41c7-bc79-d0489f2e18f1">
     <img src="https://github.com/phillipefs/images_upload/blob/master/DataFundaments.PNG" height="120" width="120">

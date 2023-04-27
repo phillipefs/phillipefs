@@ -28,10 +28,10 @@ Bacharel em Sistemas de Informação com 10 anos de experiência trabalhando com
 ## Skills:
 <div style="display: inline_block">
   <img align="center" alt="Azure" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-  <img align="center" alt="Databricks" height="45" src="https://github.com/phillipefs/images_upload/blob/master/databricks-logo.png">
+  <img align="center" alt="Databricks" height="45" src="attachment/databricks-logo.png">
   <img align="center" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Spark" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
-  <img align="center" alt="Delta Lake" height="45" src="https://github.com/phillipefs/images_upload/blob/master/delta-lake.png">
+  <img align="center" alt="Delta Lake" height="45" src="attachment/delta-lake.png">
   <img align="center" alt="Git" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </div>
  

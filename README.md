@@ -1,6 +1,15 @@
 ## **Sobre mim:**
+Engenheiro de dados bacharel em sistemas de informação com 10 anos de experiência trabalhando com dados.
+Atualmente trabalhando em ambientes de Big Data utitizando Databricks, Pyspark, Python, SQL e recursos da cloud Azure (Synapse, Spark Pool, SQL Serveless, DataFactory, Datalake)
 
-Bacharel em Sistemas de Informação com 10 anos de experiência trabalhando com dados. Atualmente atuo como engenheiro de dados com experiência em Azure Synapse, Data Factory, Databricks, Pyspark, Python, SQL.
+Expertise em: </br>
+✔️ Pyspark; </br>
+✔️ Databricks;</br>
+✔️ Python;</br>
+✔️ SQL;</br>
+✔️ Delta Lake;</br>
+✔️ Git (GitHub, BitBucket);</br>
+✔️ Stack BigData Azure (Synapse, Databricks, Data Factory, Azure Devops);</br>
 
 <div align="left">
   <a href="https://github.com/phillipefs">

@@ -20,6 +20,9 @@ Expertise em: </br>
 ## Certificações:
 
 <div aling="center">
+  <a href="https://credentials.databricks.com/d6afa5e7-2c29-4d7e-98ce-3948bc998b75">
+    <img src="attachment/databricks_associate.png" height="120" width="100">
+  </a>
   <a href="https://www.credly.com/badges/ddc37f53-4882-41c7-bc79-d0489f2e18f1">
     <img src="attachment/databricks lakehouse.PNG" height="120" width="100">
   </a>

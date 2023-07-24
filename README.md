@@ -26,6 +26,9 @@ Expertise em: </br>
   <a href="https://www.credly.com/badges/ddc37f53-4882-41c7-bc79-d0489f2e18f1">
     <img src="attachment/databricks lakehouse.PNG" height="120" width="100">
   </a>
+  <a href="https://credentials.databricks.com/26c1ac55-3127-43ba-aad7-d14b3a1b927a">
+    <img src="attachment/Generative AI.png" height="120" width="100">
+  </a>
   <a href="https://www.credly.com/badges/ddc37f53-4882-41c7-bc79-d0489f2e18f1">
     <img src="attachment/DataFundaments.PNG" height="120" width="120">
   </a>

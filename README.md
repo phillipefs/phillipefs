@@ -1,6 +1,6 @@
 ## **Sobre mim:**
-Engenheiro de dados bacharel em sistemas de informação com 10 anos de experiência trabalhando com dados.</br>
-Atualmente trabalhando em ambientes de Big Data utitizando Databricks, Pyspark, Python, SQL e recursos da cloud Azure (Synapse, Spark Pool, SQL Serveless, DataFactory, Datalake)
+Engenheiro de Dados com formação em Sistemas de Informação e uma trajetória de 12 anos no universo dos dados. 
+Atualmente trabalhando em ambientes de Big Data, Data Lakehouse e Modern Data Warehouse utitizando Databricks, Pyspark, Python, SQL e recursos da cloud Azure (Synapse, Spark Pool, SQL Serveless, Data Factory, Data Lake Storage Gen2).
 
 Expertise em: </br>
 ✔️ Pyspark; </br>

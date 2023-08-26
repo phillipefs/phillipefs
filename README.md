@@ -10,6 +10,7 @@ Expertise em: </br>
 ✔️ Delta Lake;</br>
 ✔️ Git (GitHub, BitBucket);</br>
 ✔️ Stack BigData Azure (Synapse, Databricks, Data Factory, Azure Devops);</br>
+✔️ Airflow;</br>
 
 <div align="left">
   <a href="https://github.com/phillipefs">

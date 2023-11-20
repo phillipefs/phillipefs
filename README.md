@@ -65,6 +65,7 @@ Expertise em: </br>
     <img src="./attachment/postgresql.png" alt="psql" style="vertical-align:top; margin:4px; height:40px; width:40px">
     <img src="./attachment/mysql.png" alt="mysql" style="vertical-align:top; margin:4px; height:40px; width:40px">
     <img src="./attachment/mongo.png" alt="mongoDB" style="vertical-align:top; margin:4px; height:60px; width:60px">
+    <img src="./attachment/Azure Cosmos DB.png" alt="cosmos" style="vertical-align:top; margin:4px; height:60px; width: auto;">
 </div>
  
 ## **Contato:**

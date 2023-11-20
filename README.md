@@ -48,6 +48,7 @@ Expertise em: </br>
     <img src="./attachment/databricks.png" alt="databricks" style="margin: 4px; height: 40px; width: 40px;">    
     <img src="./attachment/delta-lake.png" alt="delta" style="margin: 4px; height: 40px; width: auto;">
     <img src="./attachment/python.png" alt="python" style="margin: 4px; height: 40px; width: auto;">
+    <img src="./attachment/airflow_logo.png" alt="airflow" style="vertical-align:top; margin:4px; height:40px; width:40px">
     <img src="./attachment/hadoop.png" alt="hadoop" style="margin: 4px; height: 40px; width: 40px;"> 
     <img src="./attachment/hive.svg" alt="hive" style="margin: 4px; height: 40px; width: auto;">
     <img src="./attachment/spark_logo.svg" alt="spark" style="margin: 4px; height: 40px; width: auto;">

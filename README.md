@@ -42,17 +42,31 @@ Expertise em: </br>
 </div>
   
 ## Skills:
-<div style="display: inline_block">
-  <img align="center" alt="Azure" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-  <img align="center" alt="Databricks" height="45" src="attachment/databricks-logo.png">
-  <img align="center" alt="Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Spark" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
-  <img align="center" alt="Delta Lake" height="45" src="attachment/delta-lake.png">
-  <img align="center" alt="Git" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+### Data Engineering Tools
+<div style="display: flex; align-items: center;">
+    <img src="./attachment/azure.png" alt="azure" style="margin: 4px; height: 40px; width: 40px;">
+    <img src="./attachment/databricks.png" alt="databricks" style="margin: 4px; height: 40px; width: 40px;">    
+    <img src="./attachment/delta-lake.png" alt="delta" style="margin: 4px; height: 40px; width: auto;">
+    <img src="./attachment/python.png" alt="python" style="margin: 4px; height: 40px; width: auto;">
+    <img src="./attachment/hadoop.png" alt="hadoop" style="margin: 4px; height: 40px; width: 40px;"> 
+    <img src="./attachment/hive.svg" alt="hive" style="margin: 4px; height: 40px; width: auto;">
+    <img src="./attachment/spark_logo.svg" alt="spark" style="margin: 4px; height: 40px; width: auto;">
+    <img src="./attachment/docker.png" alt="docker" style="margin: 4px; height: 40px; width: 40px;">
+    <img src="./attachment/git-seeklogo.com.svg" alt="git" style="margin: 4px; height: 40px; width: 80px;">
+</div>
+
+
+
+### Databases (SQL/NoSQL)
+<div style="display: inline-block;">
+    <img src="./attachment/oracle-logo.png" alt="oracle" style="vertical-align:top; margin:4px; height:60px; width:60px">
+    <img src="./attachment/sql.png" alt="sql" style="vertical-align:top; margin:4px; height:40px; width:40px">
+    <img src="./attachment/oracle-plsql.png" alt="plsql" style="vertical-align:top; margin:4px; height:60px; width:60px">
+    <img src="./attachment/postgresql.png" alt="psql" style="vertical-align:top; margin:4px; height:40px; width:40px">
+    <img src="./attachment/mysql.png" alt="mysql" style="vertical-align:top; margin:4px; height:40px; width:40px">
+    <img src="./attachment/mongo.png" alt="mongoDB" style="vertical-align:top; margin:4px; height:60px; width:60px">
 </div>
  
 ## **Contato:**
-  
-<p align="left">
-<a href="https://www.linkedin.com/in/phillipe-santos/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/phillipe-santos/" height="45"/></a>
-</p>
+<a href="https://www.github.com/phillipefs" target="_blank" rel="noopener noreferrer"><img src="./attachment/github.png" alt="github" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
+<a href="https://www.linkedin.com/in/phillipe-santos/" target="_blank" rel="noopener noreferrer"><img src="./attachment/linkedin.png" alt="linkedin" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>

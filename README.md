@@ -56,8 +56,6 @@ Expertise em: </br>
     <img src="./attachment/git-seeklogo.com.svg" alt="git" style="margin: 4px; height: 40px; width: 80px;">
 </div>
 
-
-
 ### Databases (SQL/NoSQL)
 <div style="display: inline-block;">
     <img src="./attachment/oracle-logo.png" alt="oracle" style="vertical-align:top; margin:4px; height:60px; width:60px">

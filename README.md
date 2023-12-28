@@ -22,22 +22,25 @@ Expertise em: </br>
 
 <div aling="center">
   <a href="https://credentials.databricks.com/d6afa5e7-2c29-4d7e-98ce-3948bc998b75">
-    <img src="attachment/databricks_associate.png" height="120" width="100">
+    <img src="attachment/azure-data-engineer-associate-600x600.png" height="120" width="100">
   </a>
   <a href="https://www.credly.com/badges/ddc37f53-4882-41c7-bc79-d0489f2e18f1">
-    <img src="attachment/databricks lakehouse.PNG" height="120" width="100">
+    <img src="attachment/DataFundaments.PNG" height="120" width="100">
+  </a>
+  <a href="https://credentials.databricks.com/d6afa5e7-2c29-4d7e-98ce-3948bc998b75">
+    <img src="attachment/databricks_associate.png" height="120" width="85">
+  </a>
+  <a href="https://www.credly.com/badges/ddc37f53-4882-41c7-bc79-d0489f2e18f1">
+    <img src="attachment/databricks lakehouse.PNG" height="120" width="85">
   </a>
   <a href="https://credentials.databricks.com/26c1ac55-3127-43ba-aad7-d14b3a1b927a">
-    <img src="attachment/Generative AI.png" height="120" width="100">
-  </a>
-  <a href="https://www.credly.com/badges/ddc37f53-4882-41c7-bc79-d0489f2e18f1">
-    <img src="attachment/DataFundaments.PNG" height="120" width="120">
+    <img src="attachment/Generative AI.png" height="120" width="85">
   </a>
   <a href="https://www.credly.com/badges/89067af9-d488-40e0-bdd4-a4630bea34d6">
-    <img src="attachment/AWS.PNG" height="120" width="120">
+    <img src="attachment/AWS.PNG" height="120" width="100">
   </a>
   <a href="https://www.credly.com/badges/bcc31338-96d1-4b7d-ab28-5e3500ba055f">
-    <img src="attachment/Airflow.PNG" height="120" width="130">
+    <img src="attachment/Airflow.PNG" height="120" width="110">
   </a>
 </div>
   

@@ -21,7 +21,7 @@ Expertise em: </br>
 ## Certificações:
 
 <div aling="center">
-  <a href="https://credentials.databricks.com/d6afa5e7-2c29-4d7e-98ce-3948bc998b75](https://learn.microsoft.com/pt-br/users/phillipefs/credentials/3be20593dde10af2">
+  <a href="https://learn.microsoft.com/pt-br/users/phillipefs/credentials/3be20593dde10af2">
     <img src="attachment/azure-data-engineer-associate-600x600.png" height="120" width="100">
   </a>
   <a href="https://www.credly.com/badges/ddc37f53-4882-41c7-bc79-d0489f2e18f1">

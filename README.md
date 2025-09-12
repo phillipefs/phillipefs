@@ -1,6 +1,6 @@
 ## **Sobre mim:**
-Engenheiro de Dados com formação em Sistemas de Informação e uma trajetória de 12 anos no universo dos dados. 
-Atualmente trabalhando em ambientes de Big Data, Data Lakehouse e Modern Data Warehouse utitizando Databricks, Pyspark, Python, SQL e recursos da cloud Azure (Synapse, Spark Pool, SQL Serveless, Data Factory, Data Lake Storage Gen2).
+Engenheiro de Dados com 12+ anos de experiência em arquiteturas escaláveis de Big Data, Data Lakehouse e Modern Data Warehouse. Especialista na construção, otimização e operação de pipelines com Databricks, PySpark e SQL em Azure e GCP, com foco em performance, governança (Unity Catalog), segurança e confiabilidade.
+Atuação ponta a ponta: ingestão batch/stream, modelagem Medallion (Bronze/Silver/Gold), Delta Lake (CDC/CDF, Time Travel), orquestração (Airflow/ADF/Composer), CI/CD (Azure DevOps/GitHub Actions, DAB/Workflows), IaC (Terraform), observabilidade e controle de custos.
 
 Expertise em: </br>
 ✔️ Pyspark; </br>
@@ -8,15 +8,17 @@ Expertise em: </br>
 ✔️ Python;</br>
 ✔️ SQL;</br>
 ✔️ Delta Lake;</br>
+✔️ Unity Catalog (governança/linhagem); </br>
+✔️ Delta Lake CDC/CDF & Time Travel; </br>
 ✔️ Git (GitHub, BitBucket);</br>
-✔️ Stack BigData Azure (Synapse, Databricks, Data Factory, Azure Devops);</br>
+✔️ CI/CD (Azure DevOps Pipelines, GitHub Actions, Databricks Asset Bundles/Workflows); </br>
+✔️ IaC com Terraform; </br>
+✔️ Stack BigData Azure (Synapse, Databricks, Data Factory, Azure Devops, ADLS Gen2);</br>
+✔️ GCP (BigQuery, Dataflow, Dataproc, Dataform, Cloud Composer); </br>
 ✔️ Airflow; </br>
+✔️ Observabilidade (Azure Monitor / Application Insights). </br>
 
-<div align="left">
-  <a href="https://github.com/phillipefs">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=phillipefs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phillipefs&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<div align="left"> <a href="https://github.com/phillipefs"> <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=phillipefs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phillipefs&layout=compact&langs_count=7&theme=tokyonight"/> </div>
   
 ## Certificações:
 

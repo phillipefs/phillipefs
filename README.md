@@ -1,5 +1,5 @@
 ## **Sobre mim:**
-Engenheiro de Dados com 12+ anos de experiência em arquiteturas escaláveis de Big Data, Data Lakehouse e Modern Data Warehouse. Especialista na construção, otimização e operação de pipelines com Databricks, PySpark e SQL em Azure e GCP, com foco em performance, governança (Unity Catalog), segurança e confiabilidade.
+Engenheiro de Dados com mais de 12 anos de experiência em arquiteturas escaláveis de Big Data, Data Lakehouse e Modern Data Warehouse. Especialista na construção, otimização e operação de pipelines com Databricks, PySpark e SQL em Azure e GCP, com foco em performance, governança (Unity Catalog), segurança e confiabilidade.
 Atuação ponta a ponta: ingestão batch/stream, modelagem Medallion (Bronze/Silver/Gold), Delta Lake (CDC/CDF, Time Travel), orquestração (Airflow/ADF/Composer), CI/CD (Azure DevOps/GitHub Actions, DAB/Workflows), IaC (Terraform), observabilidade e controle de custos.
 
 Expertise em: </br>
